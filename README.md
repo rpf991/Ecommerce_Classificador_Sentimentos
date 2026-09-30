@@ -1,8 +1,9 @@
 # Ecommerce_Classificador_Sentimentos
 
-**Sobre o Projeto**: Mediante a um serviço no comercio, muitas pessoas podem apresentar
-experiências ruins sobre o atendimento, mas ás vezes as reviews podem não ser tão claras
-sobre o que poderia melhorar, portanto, a ideia seria criar um chatbot para avaliar 
-melhor essas reviews e classificar os sentimentos, e então indicando os pontos de melhoria
+**Sobre o Problema**: Geralmente as pessoas podem ter experiências ruins
+com produtos de E-Commerce, levando a não confiarem muito nos serviços.
+Para compreender melhor sobre o quanto a experiência do usuário pode
+ser insatisfatória, será criado um classificador de sentimentos por chat,
+avaliando por texto se apresenta uma review positiva ou negativa.
 
 **Objetivo**: classificar automaticamente o sentimento de reviews do e-commerce em português
