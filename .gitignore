@@ -217,8 +217,3 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-
-# Documentos
-*.csv
-*.txt
-*.xlsx
